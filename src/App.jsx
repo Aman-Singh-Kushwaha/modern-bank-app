@@ -29,7 +29,6 @@ const App = () => (
         <Footer/>
       </div>
     </div>
-    Hello World
   </div>
 
 );
